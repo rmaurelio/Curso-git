@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Projetos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {}
+    "C:\\Users\\MARCOS RODRIGUES\\Desktop\\Curso-git\\ProjetoTeste\\ProjetoTeste.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Projetos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+    "C:\\Users\\MARCOS RODRIGUES\\Desktop\\Curso-git\\ProjetoTeste\\ProjetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Projetos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectUniqueName": "C:\\Users\\MARCOS RODRIGUES\\Desktop\\Curso-git\\ProjetoTeste\\ProjetoTeste.csproj",
         "projectName": "ProjetoTeste",
-        "projectPath": "D:\\C#\\Projetos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectPath": "C:\\Users\\MARCOS RODRIGUES\\Desktop\\Curso-git\\ProjetoTeste\\ProjetoTeste.csproj",
         "packagesPath": "C:\\Users\\MARCOS RODRIGUES\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Projetos\\ProjetoTeste\\ProjetoTeste\\obj\\",
+        "outputPath": "C:\\Users\\MARCOS RODRIGUES\\Desktop\\Curso-git\\ProjetoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
